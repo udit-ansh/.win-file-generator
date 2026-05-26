@@ -1,0 +1,6 @@
+{
+  "name": "Wannier90 Input Generator",
+  "description": "Create, parse, and configure Wannier90 input driver (.win) files using Quantum ESPRESSO SCF and NSCF outputs/inputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
